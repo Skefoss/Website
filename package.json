@@ -1,0 +1,20 @@
+{
+  "name": "@skefoss/website",
+  "version": "0.1.0",
+  "description": "The Skefoss Website",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skefoss/Website.git"
+  },
+  "keywords": [
+    "skefoss",
+    "website"
+  ],
+  "author": "SIGUI Kessé Emmanuel <developer@sikessem.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Skefoss/Website/issues"
+  },
+  "homepage": "https://foss.sikessem.com"
+}

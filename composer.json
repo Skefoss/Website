@@ -1,0 +1,26 @@
+{
+    "name": "skefoss/website",
+    "description": "The Skefoss Website",
+    "type": "project",
+    "homepage": "https://foss.sikessem.com/",
+    "license": "Apache-2.0",
+    "keywords": [
+        "skefoss",
+        "website"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Skefoss\\Website\\": "source/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SIGUI Kessé Emmanuel",
+            "email": "developer@sikessem.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0"
+    }
+}
